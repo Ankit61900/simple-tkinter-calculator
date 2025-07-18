@@ -26,11 +26,11 @@ This is a beginner-friendly GUI Calculator built using Python's built-in `tkinte
    ```bash
    python --version
 
-2. Save the code in a file named: calculator.py
+2. Save the code in a file named: GUI_calculator.py
 
 3. Run the script using:
     ```bash
-    python calculator.py
+    python GUI_calculator.py
 
 ## 🧾 File Structure
     Calculator/
